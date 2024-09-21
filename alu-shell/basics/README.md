@@ -1,1 +1,1 @@
-this is the readme file
+This project contains shell scripts for various tasks.
